@@ -1,0 +1,10 @@
+baseURL = "https://imwen.xin/"
+languageCode = "en-us"
+title = "Fight to the end"
+theme = "aether"
+
+[params]
+brand = "兔子洞"
+description = "拔萝卜的兔子的技术博客"
+#homeimg = "URL to the image used for the home button at the bottom of each post - optional"
+#bgimg = "URL to the image used for the page background - optional"
